@@ -1,2 +1,2 @@
-# tic-tac-toe
-Best of 5 tictactoe game in python
+# Rock Paper Scissors Game
+Best of 5 rock papers scissors game in python
